@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recover Games</title>
-    <link>https://edgarjcfn.github.io/recover.games/</link>
+    <link>https://recover.games/</link>
     <description>Recent content on Recover Games</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://edgarjcfn.github.io/recover.games/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://recover.games/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Edgar Neto</title>
-      <link>https://edgarjcfn.github.io/recover.games/author/edgar-neto/</link>
+      <link>https://recover.games/author/edgar-neto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://edgarjcfn.github.io/recover.games/author/edgar-neto/</guid>
+      <guid>https://recover.games/author/edgar-neto/</guid>
       <description>Edgar is the responsible for the code magic that happens behind the curtains at all games made by Recover.</description>
     </item>
     
     <item>
       <title>Ziro Neto</title>
-      <link>https://edgarjcfn.github.io/recover.games/author/ziro-neto/</link>
+      <link>https://recover.games/author/ziro-neto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://edgarjcfn.github.io/recover.games/author/ziro-neto/</guid>
+      <guid>https://recover.games/author/ziro-neto/</guid>
       <description>Ziro&amp;rsquo;s incredible art talent is what gives life to all our characters, stories and adventures.</description>
     </item>
     
