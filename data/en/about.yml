@@ -1,16 +1,16 @@
 ############################# About ###################################
 about:
-  enable : true
-  title : About Us
-  about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  enable: true
+  title: About Us
+  about_item:
+    - icon: ti-game # themify icon pack : https://themify.me/themify-icons
+      title: We're Gamers
+      content: We've saved princesses and beaten up unbeatable evil bosses. We've been on countless adventures.
 
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    - icon: ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+      title: We're Experienced
+      content: Together we have decades of experience working in the games industry. We've seen it all.
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    - icon: ti-heart # themify icon pack : https://themify.me/themify-icons
+      title: We're Brothers
+      content: We've been beating each other up since we can remember. On the screen of course. Ok, sometimes off the screen too.
