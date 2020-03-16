@@ -7,25 +7,25 @@ team:
     - name: Ziro Neto
       # image_webp: images/team/team-1.webp
       image: images/team/ziro.jpg
-      designation: Art
+      designation: Art Lead
       content:
       social:
         - icon: ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link: "#"
+          link: "https://facebook.com/ziro.neto"
         - icon: ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link: "#"
+          link: "https://www.linkedin.com/in/zironeto"
 
     # team member loop
     - name: Edgar Neto
       # image_webp: images/team/team-2.webp
       image: images/team/edgar.jpg
-      designation: Code
+      designation: Development Lead
       content:
       social:
         - icon: ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link: "#"
+          link: "https://facebook.com/edgarfigueiredo"
         - icon: ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link: "#"
+          link: "https://www.linkedin.com/in/edgarneto"
     # team member loop
     # - name : Michael Jonson
     #   image_webp : images/team/team-3.webp
