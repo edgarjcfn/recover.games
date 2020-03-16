@@ -91,7 +91,7 @@ post_share = true
 # preloader
 [params.preloader]
 enable = true
-preloader = "images/logo.png"
+preloader = "images/logo.jpeg"
 
 # google map
 [params.map]
