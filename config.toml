@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://recover.games"
+baseURL = "https://edgarjcfn.github.io/recover.games/"
 title = "Recover Games"
 theme = "meghna-hugo"
 # post pagination
