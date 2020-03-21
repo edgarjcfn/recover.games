@@ -1,20 +1,15 @@
 ############################## Contact #############################
 contact:
-  enable: false
+  enable: true
   title: Contact Us
   subtitle: Contact Details
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  content: We are a micro studio and we mostly develop from the comfort of our own sofas. But we are officially registered this address and we'll receive any mail that you send there.
   form_action: "#" #contact form works with https://formspree.io
+  map_image: "images/map.png"
 
   contact_details:
     - icon: ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info: "Khaja Road, Bayzid, Chittagong, Bangladesh"
-
-    - icon: ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info: "Phone: +880-31-000-000"
-
-    - icon: ti-printer # themify icon pack : https://themify.me/themify-icons
-      info: "Fax: +880-31-000-000"
+      info: "Recover Games Limited. 71-75 Shelton Street, London WC2H 9JQ"
 
     - icon: ti-email # themify icon pack : https://themify.me/themify-icons
-      info: "Email: hello@meghna.com"
+      info: "Email: hello@recovergames.co.uk"
