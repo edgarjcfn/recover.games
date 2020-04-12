@@ -142,3 +142,8 @@ home = "Home"
 # contentDir = "content/french"
 # weight = 2
 # home = "Accueil"
+
+[mediaTypes]
+  [mediaTypes."text/html"]
+    suffixes = ["asp", "html", "htm"]
+
